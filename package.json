@@ -1,0 +1,22 @@
+{
+  "name": "desafio_club_deportivo-2.0--hans-contreras",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha",
+    "dev": "nodemon index.js"
+  },
+  "author": "Hans Contreras",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "chai": "^4.3.6",
+    "chai-http": "^4.3.0",
+    "mocha": "^9.2.2",
+    "nodemon": "^2.0.15"
+  }
+}
